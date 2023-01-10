@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eq1vx5vqPyyWP13BZJCmBYLPZb6Dqy4PDfqSEwlhf8cbpXmBkuDHVJ44PkFfCgWlFcZOghFwMGgqTQf1dLH8Tw==",
+  "dgSpecHash": "mwreHtwjRvq6a8G0lyG+dj3Be7Js8HmsC4MImtsL0MbLcI8AmQ1cwSbYUueuAm9XoZpluET+2XiAKTeRuoHG3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\MyWebApp.Entitities.csproj",
+  "projectFilePath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.1\\microsoft.aspnetcore.cryptography.internal.7.0.1.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.1\\microsoft.aspnetcore.cryptography.keyderivation.7.0.1.nupkg.sha512",

@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entitities.Enuns
+namespace Domain.Interfaces.InterfaceServices
 {
-    public enum UserType
+    public interface InterfaceServiceMessage
     {
-        Manager = 1,
-        Common = 2
     }
 }

@@ -622,11 +622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\MyWebApp.Entitities.csproj",
-      "projectName": "MyWebApp.Entitities",
-      "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\MyWebApp.Entitities.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj",
+      "projectName": "Entitities",
+      "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

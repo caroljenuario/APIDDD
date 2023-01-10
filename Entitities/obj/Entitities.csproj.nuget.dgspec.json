@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\Entitities.csproj": {}
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\Entitities.csproj": {
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\Entitities.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj",
         "projectName": "Entitities",
-        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\Entitities.csproj",
+        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\Entitities.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\Entitities\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\Entitities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

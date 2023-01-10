@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyWebApp.Entitities.Entities
+namespace Entitities.Entities
 {
     public class Notifies
     {

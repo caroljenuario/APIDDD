@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj": {}
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj": {
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj",
         "projectName": "MyWebApp.Infra",
-        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj",
+        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Infra\\MyWebApp.Infra.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Infra\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

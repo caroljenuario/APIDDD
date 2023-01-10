@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
-using MyWebApp.Entitities.Enuns;
+using Entitities.Enuns;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyWebApp.Entitities.Entities
+namespace Entitities.Entities
 {
     public class UserApplication: IdentityUser
     {

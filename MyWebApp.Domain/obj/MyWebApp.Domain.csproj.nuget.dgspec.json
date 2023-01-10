@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj": {}
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj": {
+    "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj",
         "projectName": "MyWebApp.Domain",
-        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj",
+        "projectPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Domain\\MyWebApp.Domain.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template\\MyWebApp\\MyWebApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\Projetos2023\\Template2\\MyWebApp\\MyWebApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
