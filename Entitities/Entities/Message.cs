@@ -29,8 +29,5 @@ namespace Entitities.Entities
         public string userId { get; set; }
         public virtual UserApplication UserApplication { get; set; }
 
-
-
-
     }
 }
