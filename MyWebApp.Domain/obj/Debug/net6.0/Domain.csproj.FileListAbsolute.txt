@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\bin\Debug\net6.0\Entitities.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\bin\Debug\net6.0\Entitities.pdb
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\MyWebApp.Domain\obj\Debug\net6.0\ref\Domain.dll

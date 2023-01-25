@@ -49,7 +49,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[11.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -71,17 +71,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[6.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.13, )"
-            },
-            "Microsoft.Extensions.Identity.Stores": {
-              "target": "Package",
-              "version": "[7.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -106,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,7 +144,7 @@
           "dependencies": {
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
@@ -166,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -224,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -275,21 +271,25 @@
               "target": "Package",
               "version": "[6.0.12, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
               "version": "[1.1.6, )"
             },
-            "Microsoft.Extensions.Identity.Stores": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
@@ -307,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }

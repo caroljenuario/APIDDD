@@ -11,6 +11,11 @@ namespace Infra.Configuration
 {
     public class Context : IdentityDbContext<UserApplication>
     {
+
+        public Context()
+        {
+        }
+
         public Context(DbContextOptions<Context> options) : base(options)
         {
         }

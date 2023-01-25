@@ -1,0 +1,12 @@
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\bin\Debug\net6.0\Entitities.deps.json
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\bin\Debug\net6.0\Entitities.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\bin\Debug\net6.0\Entitities.pdb
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.AssemblyInfo.cs
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\refint\Entitities.dll
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\Entitities.pdb
+C:\Users\alexa\Documents\Projetos2023\Template2\MyWebApp\Entitities\obj\Debug\net6.0\ref\Entitities.dll
