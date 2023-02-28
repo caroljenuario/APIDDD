@@ -3,6 +3,7 @@ using Entitities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,5 +11,6 @@ namespace Domain.Interfaces
 {
     public interface InterfaceMessage: InterfaceGeneric<Message>
     {
+        Task<List<Message>> ListMessage(Expression<Func<Message, bool>> exMessage);
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Api.Model;
 using AutoMapper;
 using Domain.Interfaces;
+using Domain.Interfaces.InterfaceServices;
 using Entitities.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -14,10 +15,12 @@ namespace Api.Controllers
     {
         private readonly IMapper _Imapper;
         private readonly InterfaceMessage _Imessage;
-        public MessageController(IMapper IMapper, InterfaceMessage Imessage)
+        private readonly InterfaceServiceMessage _IServiceMessage;
+        public MessageController(IMapper IMapper, InterfaceMessage Imessage, InterfaceServiceMessage IServiceMessage)
         {
             _Imapper = IMapper;
             _Imessage = Imessage;
+            _IServiceMessage = IServiceMessage;
         }
 
 
@@ -29,7 +32,8 @@ namespace Api.Controllers
         {
             message.userId = await GetIdUserLogged();
             var messageMap = _Imapper.Map<Message>(message);
-            await _Imessage.Add(messageMap);
+            await _IServiceMessage.Add(messageMap);
+            // await _Imessage.Add(messageMap);
             return messageMap.notifies;
         }
 
@@ -39,7 +43,8 @@ namespace Api.Controllers
         public async Task<List<Notifies>> Update(MessageViewModel message)
         {
             var messageMap = _Imapper.Map<Message>(message);
-            await _Imessage.Update(messageMap);
+           // await _Imessage.Update(messageMap);
+            await _IServiceMessage.Update(messageMap);
             return messageMap.notifies;
         }
 
@@ -70,6 +75,16 @@ namespace Api.Controllers
         {
             var message = await _Imessage.List();
             var messageMap = _Imapper.Map<List<MessageViewModel>>(message);
+            return messageMap;
+        }
+
+        [Authorize]
+        [Produces("application/json")]
+        [HttpPost("/api/ListActiveMessages")]
+        public async Task<List<MessageViewModel>> ListActiveMessages()
+        {
+            var mensagens = await _IServiceMessage.ListActiveMessages();
+            var messageMap = _Imapper.Map<List<MessageViewModel>>(mensagens);
             return messageMap;
         }
         private async Task<string> GetIdUserLogged()
